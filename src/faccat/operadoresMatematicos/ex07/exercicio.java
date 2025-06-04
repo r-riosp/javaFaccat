@@ -1,4 +1,4 @@
-package faccat.ex06;
+package faccat.operadoresMatematicos.ex07;
 
 import java.util.Scanner;
 

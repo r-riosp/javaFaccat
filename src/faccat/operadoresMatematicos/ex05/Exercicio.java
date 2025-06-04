@@ -1,8 +1,8 @@
-package faccat.ex05;
+package faccat.operadoresMatematicos.ex05;
 
 import java.util.Scanner;
 
-public class exercicio {
+public class Exercicio {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int valor = sc.nextInt();
